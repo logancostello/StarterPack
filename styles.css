@@ -91,3 +91,8 @@ html {
     margin-right: 550px;
     margin-left: 550px;
   }
+
+  .page-title {
+    color: rgb(12, 75, 75);
+    text-decoration: underline;
+  }
