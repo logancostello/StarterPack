@@ -96,3 +96,11 @@ html {
     color: rgb(12, 75, 75);
     text-decoration: underline;
   }
+
+  .project-details {
+    text-align: center;
+  }
+
+  .project-name {
+    font-weight: bold;
+  }
